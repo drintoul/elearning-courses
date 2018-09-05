@@ -1,0 +1,631 @@
+<?xml version="1.0"?>
+<presentation title="FFM Competency" width="720.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{5A6E7E4E-3985-4432-A670-B9D8A1DC25A8}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>false</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>false</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Full Face Mask Competency" titleNormalized="full face mask competency" src="slide1.swf" size="25537" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Full Face Mask Competency
+JUN 2016</text>
+		</slide>
+		<slide index="1" title="Why Dive a Full Face Mask?" titleNormalized="why dive a full face mask?" src="slide2.swf" size="24202" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why Dive a Full Face Mask?
+Cold Water
+A dry face is a warm face
+Encapsulated diaphragm means less chance of freeze up / free-flowing regulator
+Less jaw fatigue because you don’t have to hold regulator in your mouth
+Constant air flow means mask should never fog</text>
+		</slide>
+		<slide index="2" title="Why Dive a Full Face Mask?" titleNormalized="why dive a full face mask?" src="slide3.swf" size="31421" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why Dive a Full Face Mask?
+Contaminated Water
+Isolate diver from hazardous substances</text>
+		</slide>
+		<slide index="3" title="Why Dive a Full Face Mask?" titleNormalized="why dive a full face mask?" src="slide4.swf" size="27715" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why Dive a Full Face Mask?
+Two-Way Communication
+With buddy
+With Tender
+With Audience</text>
+		</slide>
+		<slide index="4" title="Communication Systems" titleNormalized="communication systems" src="slide5.swf" size="4453" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Communication Systems
+HARDWIRE
+Pros
+Excellent sound quality
+Duplex communications (both ends can talk at same time)
+Cons
+Requires tether
+Entanglement
+WIRELESS
+Pros
+No tether
+Cons
+Simplex communications (both ends can’t talk at same time)
+Multi-path echo in exhibit makes for bad wireless listening experience</text>
+		</slide>
+		<slide index="5" title="CommBox Overview" titleNormalized="commbox overview" src="slide6.swf" size="1240" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CommBox Overview</text>
+		</slide>
+		<slide index="6" title="Power Switch/Toggle" titleNormalized="power switch/toggle" src="slide7.swf" size="4005" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Power Switch/Toggle</text>
+		</slide>
+		<slide index="7" title="Tender-to-Diver Volume" titleNormalized="tender-to-diver volume" src="slide8.swf" size="4016" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tender-to-Diver Volume</text>
+		</slide>
+		<slide index="8" title="Push-to-Talk" titleNormalized="push-to-talk" src="slide9.swf" size="4472" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Push-to-Talk</text>
+		</slide>
+		<slide index="9" title="Diver Microphone &amp; Speaker" titleNormalized="diver microphone &amp; speaker" src="slide10.swf" size="4834" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diver Microphone &amp; Speaker</text>
+		</slide>
+		<slide index="10" title="Concerns with diving a FFM" titleNormalized="concerns with diving a ffm" src="slide11.swf" size="93593" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concerns with diving a FFM</text>
+		</slide>
+		<slide index="11" title="Concern: Out-of-Air" titleNormalized="concern: out-of-air" src="slide12.swf" size="1952" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concern: Out-of-Air
+Your breathing gas supply and your mask are the same unit
+If one becomes compromised, both do
+Can ditch mask
+In the Aquarium setting, the diver should never run out of air
+It is the Tender’s responsibility to continually monitor air pressure and signal to the diver to exit if less than 500 psi
+Do not start a dive with less than 1,500 psi in the cylinder</text>
+		</slide>
+		<slide index="12" title="Concern: Equalization" titleNormalized="concern: equalization" src="slide13.swf" size="20330" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concern: Equalization
+The FFM is equipped with a nose plug insert
+Find appropriate height so that plug just barely touches the bottom of your nose
+To clear your ears, push your face down into the mask (push mask up) and blow (Valsalva maneuver; same as ‘pinch your nose and blow gently’)</text>
+		</slide>
+		<slide index="13" title="Equalizing" titleNormalized="equalizing" src="slide14.swf" size="163368" advanceOnTime="0" framesCount="1876" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1edb51bac60.spr0_25537906" slides="1" repeat="1" volume="0.8000000" fadeInDuration="0.0000000" fadeOutDuration="1.0000000" posterFrameId="ispring.resources_1edb51bac60.spr2_25537906" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1875" playTime="78.1250000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Equalizing</text>
+		</slide>
+		<slide index="14" title="Concern: Hypercapnia" titleNormalized="concern: hypercapnia" src="slide15.swf" size="24203" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concern: Hypercapnia
+CO2 buildup
+If CO2 isn’t flushed properly from the mask, you will breathe faster resulting in even more CO2
+Can lead to a CO2 headache
+Solution
+Breathe and speak slowly
+Ensure mask non-return valves are in place</text>
+		</slide>
+		<slide index="15" title="Concern: Talking at Surface" titleNormalized="concern: talking at surface" src="slide16.swf" size="17689" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concern: Talking at Surface
+While wearing a FFM on the surface, anyone who is not directly connected (i.e., through CommBox) will not be able to hear you speak</text>
+		</slide>
+		<slide index="16" title="Concern: Equipment" titleNormalized="concern: equipment" src="slide17.swf" size="35717" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Concern: Equipment
+Spare Mask in case of mask ditching?
+Spare regulator for a buddy who is Out-of-Air?
+These are real concerns if you were diving offshore
+Not as relevant while diving at the aquarium</text>
+		</slide>
+		<slide index="17" title="AGA Mask Features" titleNormalized="aga mask features" src="slide18.swf" size="32906" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>AGA Mask Features
+Ambient Breathing Valve
+aka “Snorkel”
+Allows diver to breathe ambient air rather than from cylinder at the surface
+Remember to close ABV before diving
+Only needs to be finger tight
+CCW to close
+CW to open
+Will leak if not closed!
+OPEN
+CLOSED</text>
+		</slide>
+		<slide index="18" title="Ambient Breathing Valve" titleNormalized="ambient breathing valve" src="slide19.swf" size="192625" advanceOnTime="0" framesCount="1358" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1edb4f78870.spr0_25570750" slides="1" repeat="1" volume="0.8000000" fadeInDuration="0.0000000" fadeOutDuration="1.0000000" posterFrameId="ispring.resources_1edb4f78870.spr2_25570750" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1357" playTime="56.5416667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ambient Breathing Valve</text>
+		</slide>
+		<slide index="19" title="Pre-Dive Inspection" titleNormalized="pre-dive inspection" src="slide20.swf" size="179055" advanceOnTime="0" framesCount="3704" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1edb4f76580.spr0_25614562" slides="1" repeat="1" volume="0.8000000" fadeInDuration="0.0000000" fadeOutDuration="1.0000000" posterFrameId="ispring.resources_1edb4f76580.spr2_25614562" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="3703" playTime="154.2916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pre-Dive Inspection</text>
+		</slide>
+		<slide index="20" title="Putting on the Mask" titleNormalized="putting on the mask" src="slide21.swf" size="1749" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Putting on the Mask
+Start with all straps loosened
+Align mask with face and place head harness on head
+Tighten straps evenly on both sides of head
+Chin straps first
+Then temple straps
+Then forehead strap (don’t over-tighten)</text>
+		</slide>
+		<slide index="21" title="Tightening Straps" titleNormalized="tightening straps" src="slide22.swf" size="18119" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tightening Straps
+Very important to pull straps back to tighten
+Pulling the straps out or down will pull the buckles from the mask skirt
+Mask skirt cannot be repaired = $450+ replacement cost
+Great technique for ensuring you’re pulling back and not out is keeping your elbows above your shoulders</text>
+		</slide>
+		<slide index="22" title="Donning the Mask" titleNormalized="donning the mask" src="slide23.swf" size="166932" advanceOnTime="0" framesCount="2744" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1edb4f81d20.spr0_25653296" slides="1" repeat="1" volume="0.8000000" fadeInDuration="0.0000000" fadeOutDuration="1.0000000" posterFrameId="ispring.resources_1edb4f81d20.spr2_25653296" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2743" playTime="114.2916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Donning the Mask</text>
+		</slide>
+		<slide index="23" title="Post-Dive Care &amp; Storage" titleNormalized="post-dive care &amp; storage" src="slide24.swf" size="31961" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Post-Dive Care &amp; Storage
+US Navy Recommendation
+Quick fresh water rinse
+Spray inside of mask with diluted Chlorohexidine solution
+Wait 5 minutes to allow liquid to dry on mask
+Rinse in fresh water
+Store mask upside down to allow any remaining liquid to drain</text>
+		</slide>
+		<slide index="24" title="Post-Dive Care &amp; Storage" titleNormalized="post-dive care &amp; storage" src="slide25.swf" size="35743" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Post-Dive Care &amp; Storage
+Hang mask upside down to allow water to drain away from microphone
+allows less water to accumulate in oronasal pocket of mask = less opportunity for bacteria</text>
+		</slide>
+		<slide index="25" title="Final Recap" titleNormalized="final recap" src="slide26.swf" size="165964" advanceOnTime="0" framesCount="2242" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1edb55f9830.spr0_25687937" slides="1" repeat="1" volume="0.8000000" fadeInDuration="0.0000000" fadeOutDuration="1.0000000" posterFrameId="ispring.resources_1edb55f9830.spr2_25687937" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2241" playTime="93.3750000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Final Recap</text>
+		</slide>
+		<quiz index="26" title="Quiz" titleNormalized="quiz" src="quiz1.swf" size="1125840" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoSlide slideIndex="27"/>
+					</passed>
+					<failed>
+						<gotoSlide slideIndex="0"/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="27" title="Contact DSO to schedule workshop" titleNormalized="contact dso to schedule workshop" src="slide28.swf" size="14685" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contact DSO to schedule workshop
+MAR 2016</text>
+		</slide>
+	</slides>
+</presentation>
