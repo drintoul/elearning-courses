@@ -37,7 +37,7 @@ Contact <a href="mailto:drintoul@gmail.com">drintoul@gmail.com</a> to request so
   <li>Neuro Provider Assessment</li>
 </ul>
 
-Note that these eLearning modules were built with the 2012 version of content, before DAN came out with their own eLearning platform.
+Note that these eLearning modules were built with the 2012 version of content, before DAN came out with their own <a href="https://dan.diverelearning.com/">eLearning platform</a>.
 
 ## OrCA = Oregon Coast Aquarium
 
