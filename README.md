@@ -31,29 +31,30 @@ Contact <a href="mailto:drintoul@gmail.com">drintoul@gmail.com</a> to request so
 ## DAN = Divers Alert Network
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>BLS Provider Assessment</li>
+  <li>EO2 Provider Assessment</li>
+  <li>HMLI Provider Assessment</li>
+  <li>Neuro Provider Assessment</li>
 </ul>
 
-### OrCA = Oregon Coast Aquarium
+Note that these eLearning modules were built with the 2012 version of content, before DAN came out with their own eLearning platform.
+
+## OrCA = Oregon Coast Aquarium
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Dive Program FAQ</li>
+  <li>POD Fishes ID 2015</li>
+  <li>Sevengill ID 2015</li>
+  <li>Sevengill ID Photo Quiz</li>
+  <li>Sevengill ID Video Quiz</li>
 </ul>
 
 ## TSA = Texas State Aquarium
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Basic Aquarium Diver Checkout</li>
+  <li>Code Blue Competency</li>
+  <li>Diver First Aid Kit Orientation</li>
+  <li>FFM Competency</li>
+  <li>Fill Station Operator Competency</li>
 </ul>
