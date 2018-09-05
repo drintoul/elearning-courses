@@ -14,9 +14,9 @@ This project features three output formats: Adobe Flash and HTML5 for the web an
 <li>Download all files to your local computer</li>
 <li>Click on the following depending on your desired environment:
   <ul>
-  <li>index.html for Flash version</li>
-  <li>html5.html for HTML5 version</li>
-  <li>*.exe for executable</li>
+  <li>index.html in the (Web) directory for Flash version</li>
+  <li>html5.html in the (Web) directory for HTML5 version</li>
+  <li>*.exe in the (CD) directory for executable</li>
   </ul>
 </ol>
 
