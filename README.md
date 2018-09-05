@@ -28,7 +28,7 @@ Contact <a href="mailto:drintoul@gmail.com">drintoul@gmail.com</a> to request so
 
 # Available eLearning Courses
 
-# DAN = Divers Alert Network
+## DAN = Divers Alert Network
 
 <ul>
   <li></li>
@@ -38,6 +38,22 @@ Contact <a href="mailto:drintoul@gmail.com">drintoul@gmail.com</a> to request so
   <li></li>
 </ul>
 
-# OrCA = Oregon Coast Aquarium
+### OrCA = Oregon Coast Aquarium
 
-# TSA = Texas State Aquarium
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+## TSA = Texas State Aquarium
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
