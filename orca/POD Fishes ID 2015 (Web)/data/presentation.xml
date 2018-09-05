@@ -1,0 +1,2037 @@
+<?xml version="1.0"?>
+<presentation title="POD Fishes ID 2015" width="396.0000000" height="252.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{8DD1ED25-8036-4D7A-8666-F35C400B701D}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#163C61</color>
+				<color id="button.content.over">#24589B</color>
+				<color id="button.face.normal">#87C3FD</color>
+				<color id="button.face.over">#B9DBFD</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#296AB2</color>
+				<color id="listItem.face.over">#D6ECFF</color>
+				<color id="listItem.face.pressed">#24589B</color>
+				<color id="listItem.label.over">#434B57</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#546B94</color>
+				<color id="page.background">#303941</color>
+				<color id="panel.background">#2E6395</color>
+				<color id="panel.text">#D6ECFF</color>
+				<color id="player.background">#1D2F3F</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#29353F</color>
+				<color id="progress.loading">#FFFFFF</color>
+				<color id="progress.playback">#87C3FD</color>
+				<color id="text">#434B57</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>false</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>false</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>false</showPrevButton>
+				<showNextButton>false</showNextButton>
+				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>false</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="28027" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="1" title="Species List" titleNormalized="species list" src="slide2.swf" size="8049" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Species List</text>
+		</slide>
+		<slide index="2" title="Species List" titleNormalized="species list" src="slide3.swf" size="7663" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Species List</text>
+		</slide>
+		<slide index="3" title="Species List" titleNormalized="species list" src="slide4.swf" size="8233" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Species List</text>
+		</slide>
+		<slide index="4" title="broadnose sevengill shark" titleNormalized="broadnose sevengill shark" src="slide5.swf" size="10120" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>broadnose sevengill shark
+Identification Notes
+Seven gill slits
+Scattered black spots along body
+Single dorsal fin near base of tail
+Largest shark species on exhibit in Passages
+photo by Vern DiPietro © 2005</text>
+		</slide>
+		<slide index="5" title="broadnose sevengill shark" titleNormalized="broadnose sevengill shark" src="slide6.swf" size="2121" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>broadnose sevengill shark
+Scientific Name: Notorynchus cepedianus
+Size: Up to 8.5-10 feet (2.5-3 m) long. A 7 foot male will weigh about 80 pounds (36 kg), a 9 foot female will weigh about 328 pounds (149 kg)
+Lifespan: Unknown
+Range: Northern British Columbia to Chile; also in the Indian and southern Atlantic Oceans
+Habitat: Sevengills live on soft bottoms, in bays and in the open ocean down to 450 feet (137 m). They prefer temperate waters.</text>
+		</slide>
+		<slide index="6" title="brown smooth-hound shark" titleNormalized="brown smooth-hound shark" src="slide7.swf" size="9185" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>brown smooth-hound shark
+Identification Notes
+Dorsal coloration is gray to light brown with no white spots above the lateral line
+Caudal fin is pointed
+No dorsal spines
+Similar species: spiny dogfish
+photo by Cindy Hanson</text>
+		</slide>
+		<slide index="7" title="brown smooth-hound shark" titleNormalized="brown smooth-hound shark" src="slide8.swf" size="2118" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>brown smooth-hound shark
+Scientific Name: Mustelus henlei
+Size: up to 37 inches (94 cm). Females are larger.
+Lifespan: ~15 years
+Range: Coos Bay to the Gulf of California, and off the coasts of Ecuador and Peru
+Habitat: Brown smooth-hounds are usually found on sand or mud bottoms from the intertidal zone to 656 feet (200 m). They are abundant in inshore waters, such as the San Francisco and Tomales Bays, and even in the surf zone.</text>
+		</slide>
+		<slide index="8" title="leopard shark" titleNormalized="leopard shark" src="slide9.swf" size="14859" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>leopard shark
+Identification Notes
+A series of dark saddle blotches, interspaced with spots, running the length of the body
+photo by Michael Durham</text>
+		</slide>
+		<slide index="9" title="leopard shark" titleNormalized="leopard shark" src="slide10.swf" size="2164" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>leopard shark
+Scientific Name: Triakis semifasciata
+Size: 5-7 feet (1.5-2 m) in length and up to 70 pounds (32 kg). An individual over 6 feet in length is unusual.
+Lifespan: 25-30 years, at most
+Range: From Oregon to Baja California and in the northern Gulf of California. Particularly abundant in northern California bays.
+Habitat: From intertidal to 300 feet (91.5 m). Most often found in depths of 20 feet (6 m) or less. Can be found in areas ranging from mudflats to rocky bottoms to kelp beds.</text>
+		</slide>
+		<slide index="10" title="soupfin shark" titleNormalized="soupfin shark" src="slide11.swf" size="12145" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>soupfin shark
+Identification Notes
+Large gap or notch between the two lobes on the caudal fin
+Second dorsal fin and anal fin located almost opposite of each other
+photo by Vern DiPietro © 2005</text>
+		</slide>
+		<slide index="11" title="soupfin shark" titleNormalized="soupfin shark" src="slide12.swf" size="2370" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>soupfin shark
+Scientific Name: Galeorhinus galeus 
+Size: up to 6.5 feet (2 m). A 6 foot (1.8 m) male would weigh about 60 pounds (27 kg). A 6.5 feet foot female would weigh about 100 pounds (45 kg).
+Lifespan: ~55 years
+Range: Nearly worldwide. On the east coast of the Pacific, soupfins range from northern British Columbia to Baja California. They are absent from Central America and then pick up again off the coasts of Peru and Chile.
+Habitat: Soupfins are found offshore, at the surf line, in bays and in submarine canyons. They prefer muddy bottoms down to 1,350 feet (411 m). Females are usually seen at depths less than 180 feet (55 m); males live deeper. They can also be found on rocky reefs.</text>
+		</slide>
+		<slide index="12" title="spiny dogfish shark" titleNormalized="spiny dogfish shark" src="slide13.swf" size="10219" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>spiny dogfish shark
+Identification Notes
+Rounded caudal fin
+Anal fin absent
+Sharp spine extending from the front edge of both dorsal fins
+photo by Michael Durham</text>
+		</slide>
+		<slide index="13" title="spiny dogfish shark" titleNormalized="spiny dogfish shark" src="slide14.swf" size="2386" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>spiny dogfish shark
+Scientific Name: Squalus acanthias
+Size: The dogfish grows up to 5.25 feet (1.6 m) but is usually around 2-4 feet (61-122 cm). Larger individuals are found in the northern seas.
+Lifespan: The dogfish is slow growing and long lived. Their lifespan averages around 30 years, but one 80 year individual has been recorded.
+Range: Dogfish are found worldwide in temperate and sub-arctic waters. In the Pacific Ocean, they range from the Bering Sea and Alaska to Baja California, and also off the coast of Chile. They are more abundant in the sea off British Columbia and Washington.
+Habitat: Dogfish live from the intertidal zone down to at least 3,000 feet (915 m), but most are found at depths of less than 1,000 feet (305 m).</text>
+		</slide>
+		<slide index="14" title="big skate" titleNormalized="big skate" src="slide15.swf" size="11317" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>big skate
+Identification Notes
+Line from snout to tip of pectoral fin is slightly concave
+Large black spot with pale border on each pectoral fin
+Weak notches on rear edge of pelvic fins
+Similar species: longnose skate
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="15" title="big skate" titleNormalized="big skate" src="slide16.swf" size="1971" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>big skate
+Scientific Name: Raja binoculata
+Size: Up to 8 feet (2.5 m)
+Lifespan: Unknown, but individuals of at least 13 years have been reported.
+Range: The Bering Sea to Baja California
+Habitat: The big skate skims over soft bottoms from 10-360 feet (3-110 m) deep.</text>
+		</slide>
+		<slide index="16" title="longnose skate" titleNormalized="longnose skate" src="slide17.swf" size="8932" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>longnose skate
+Identification Notes
+Line from snout to tip of pectoral fin is significantly concave
+Long pointed snout
+Black spot with pale center on each pectoral fin
+Similar species: big skate
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="17" title="longnose skate" titleNormalized="longnose skate" src="slide18.swf" size="2014" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>longnose skate
+Scientific Name: Raja rhina
+Size: Usually 2-3 feet (0.6-0.9 m), maximum of 4 feet (1.4 m)
+Lifespan: Unknown, but individuals of 13 years of age have been reported.
+Range: Southeast Alaska to Baja California
+Habitat: Sand flats at a depth of 60-2,250 feet (13-682 m)</text>
+		</slide>
+		<slide index="18" title="starry skate" titleNormalized="starry skate" src="slide19.swf" size="12627" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry skate
+Identification Notes
+Rounded snout
+Eye orbits lined with spines; row of spines running down the middle of the back and tail
+Brown to grey-brown coloration with dark and light spots
+Often with eye spots on the wings
+photo by Michael Durham</text>
+		</slide>
+		<slide index="19" title="starry skate" titleNormalized="starry skate" src="slide20.swf" size="1877" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry skate
+Scientific Name: Raja stellulata
+Size: Up to 2.5 feet (76 cm) long
+Lifespan: Unknown
+Range: The Bering Sea to Baja California
+Habitat: Soft bottoms, from 60-2,400 feet (18-732 m) deep.</text>
+		</slide>
+		<slide index="20" title="california bat ray" titleNormalized="california bat ray" src="slide21.swf" size="18228" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>california bat ray
+Identification Notes
+Large bulbous, blunt head
+Pectoral fins long, nearly forming equilateral triangles
+Whip-like tail
+photo by Michael Durham</text>
+		</slide>
+		<slide index="21" title="california bat ray" titleNormalized="california bat ray" src="slide22.swf" size="2172" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>california bat ray
+Scientific Name: Myliobatis californica
+Size: Up to 6 feet (1.8 m) wide from wingtip to wingtip. Males are generally smaller.
+Lifespan: 24 years
+Range: From Oregon to the Gulf of California, but more common south of the California border.
+Habitat: Bat rays are generally found in murky waters from the intertidal to 150 feet (46 m). They live in sandy and muddy bays, sometimes burying themselves in the sand. Bat rays are also found in kelp beds, over rocky bottoms and around reefs.</text>
+		</slide>
+		<slide index="22" title="white sturgeon" titleNormalized="white sturgeon" src="slide23.swf" size="12809" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>white sturgeon
+Identification Notes
+Bony scutes on sides and top of the body
+photo by Michael Durham</text>
+		</slide>
+		<slide index="23" title="white sturgeon" titleNormalized="white sturgeon" src="slide24.swf" size="2247" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>white sturgeon
+Scientific Name: Acipenser transmontanus
+Size: Up to 13 feet (4 m) in length and up to 1,387 pounds (630 kg). The white sturgeon is the largest fish found in freshwater in North America.
+Lifespan: Over 100 years
+Range: From Alaska to California, the largest populations are found in the Sacramento-San Joaquin and Columbia river systems.
+Habitat: White sturgeon live in deep pools in bays and estuaries and on soft ocean bottoms. They seem to spend most of their time in estuaries, going up-river to spawn. However, some inland fish spend their entire lives in freshwater.</text>
+		</slide>
+		<slide index="24" title="pacific herring" titleNormalized="pacific herring" src="slide25.swf" size="19029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pacific herring
+Identification Notes
+No striations on gill cover
+No spotting on body
+No adipose fin
+photo by Michael Durham</text>
+		</slide>
+		<slide index="25" title="pacific herring" titleNormalized="pacific herring" src="slide26.swf" size="1983" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pacific herring
+Scientific Name: Clupea pallasii pallasii 
+Size: Up to 18 inches (46 cm)
+Lifespan: maximum reported age is 19 years
+Range: Baja California, Mexico, to the Bering Sea and northeast to the Beaufort Sea. Also along the Asian coast from the Arctic Ocean to Japan.
+Habitat: Adults are pelagic and migrate inshore to breed.</text>
+		</slide>
+		<slide index="26" title="northern anchovy" titleNormalized="northern anchovy" src="slide27.swf" size="15478" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>northern anchovy
+Identification Notes
+Large mouth
+Long thin body with blue, green and silver tints
+Large operculum (gill cover)
+photo by Cindy Hanson</text>
+		</slide>
+		<slide index="27" title="northern anchovy" titleNormalized="northern anchovy" src="slide28.swf" size="1937" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>northern anchovy
+Scientific Name: Engraulis mordax 
+Size: Up to 9 inches (4 inches average)
+Lifespan: maximum reported age is 7 years
+Range: British Columbia to Baja California
+Habitat: Adults are found from the surface down to 700 feet. They range from surf zone to 300 miles offshore.</text>
+		</slide>
+		<slide index="28" title="black rockfish" titleNormalized="black rockfish" src="slide29.swf" size="16771" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>black rockfish
+Identification Notes
+Lighter, irregular blotches above the lateral line
+No dark sloping band on the gill cover or the forehead
+Similar species: blue rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="29" title="black rockfish" titleNormalized="black rockfish" src="slide30.swf" size="2209" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>black rockfish
+Scientific name: Sebastes melanops
+Size: 8-18 inches (20-45 cm), maximum. 2 feet (60 cm).
+Lifespan: Up to 50 years.
+Range: They are abundant to occasional from the Aleutian Island chain of Alaska to southern California. 
+Habitat: Inhabit a wide range of habitats from kelp forests to rocky, boulder strewn bottoms and in open water over deep banks. The black rockfish can be found from a depth of 0-1,200 feet (0-365 m), but are usually mid-water and surface dwelling fish. The relative abundance of individuals decreases as depth increases.</text>
+		</slide>
+		<slide index="30" title="blue rockfish" titleNormalized="blue rockfish" src="slide31.swf" size="15987" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>blue rockfish
+Identification Notes
+Sloping band from the eye toward the pectoral fin with a smaller band below
+Two to four dark bands curve around front of head
+Rear edge of anal fin straight and slanted
+Similar species: black rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="31" title="blue rockfish" titleNormalized="blue rockfish" src="slide32.swf" size="2233" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>blue rockfish
+Scientific Name: Sebastes mystinus
+Size: Normally 8-18 inches (20-46 cm), but the record size is 21 inches (54 cm).
+Lifespan: maximum reported age is 44 years
+Range: Vancouver Island, British Columbia to Baja California
+Habitat: These fish live on the bottom, generally on shallow reefs, but are also found around kelp and in open water over deep reefs. They are rarely seen in sheltered waters. They live in depths ranging from the surface to 1,800 feet (549 m), but generally live above 300 feet (91 m). They have even been seen in deep tide pools.</text>
+		</slide>
+		<slide index="32" title="bocaccio" titleNormalized="bocaccio" src="slide33.swf" size="15502" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>bocaccio
+Identification Notes
+Usually a pink or pink-brown color
+Often have dark spots on the back
+Elongated body shape
+Large lower jaw
+photo by Michael Durham</text>
+		</slide>
+		<slide index="33" title="bocaccio" titleNormalized="bocaccio" src="slide34.swf" size="2269" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>bocaccio
+Scientific Name: Sebastes paucispinis
+Size: 8-28 inches (20-70 cm), 3 feet (90 cm) maximum.
+Lifespan: At least 50 years
+Range: Bocaccio can be found from Stepovak Bay, Alaska to central Baja, but are most abundant from British Columbia southward.
+Habitat: They inhabit a wide range of habitats, but are primarily found over rocky bottoms and occasionally over mud and sand. Bocaccio can be from the surface to 1,600 feet (488 m). The young of the year (YOY) bocaccio are often found in 30-60 feet (9-18 m), while the larger individuals are generally found in waters deeper than 150 feet (45 m).</text>
+		</slide>
+		<slide index="34" title="brown rockfish" titleNormalized="brown rockfish" src="slide35.swf" size="12645" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>brown rockfish
+Identification Notes
+Vague dusky to dark blotch on rear gill cover
+Light brown coloration with darker blotches
+Similar species: quillback rockfish
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="35" title="brown rockfish" titleNormalized="brown rockfish" src="slide36.swf" size="2155" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>brown rockfish
+Scientific Name: Sebastes auriculatus 
+Size: Usually 8-18 inches (20-46 cm), maximum size 22 inches (56 cm).
+Lifespan: maximum reported age is 20 years
+Range: Prince William Sound, Alaska to central Baja California
+Habitat: Inhabit hard bottoms and sandy areas near rocks, dock pilings, debris and low profile reefs. Often lie quietly on the bottom. Can be found at depths of 0-150 feet (45 m), but more common below 20 feet (6 m).</text>
+		</slide>
+		<slide index="36" title="canary rockfish" titleNormalized="canary rockfish" src="slide37.swf" size="18209" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>canary rockfish
+Identification Notes
+Prominent band slopes downward from eye toward pectoral fin with narrow band below
+White stripe along lateral line from gill cover to tail
+Tail fin slightly forked with pointed tips
+Similar species: vermilion rockfish, yelloweye rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="37" title="canary rockfish" titleNormalized="canary rockfish" src="slide38.swf" size="2091" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>canary rockfish
+Scientific Name: Sebastes pinniger
+Size: 10-20 inches (25-50 cm), 30 inches (75 cm) maximum
+Lifespan: Up to 75 years
+Range: Cape San Baroleme, Alaska to Baja California
+Habitat: The young can be found in tide pools and subtidally. Adults are found down to 1,403 feet (428 m) but are seen most frequently at 300-900 feet (91-274 m). They prefer deep reefs and areas with pinnacles.</text>
+		</slide>
+		<slide index="38" title="china rockfish" titleNormalized="china rockfish" src="slide39.swf" size="21084" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>china rockfish
+Identification Notes
+Yellow speckles on head and body
+Yellow stripe starting just behind the head and running the length of the body along the lateral line
+photo by Michael Durham</text>
+		</slide>
+		<slide index="39" title="china rockfish" titleNormalized="china rockfish" src="slide40.swf" size="2021" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>china rockfish
+Scientific Name: Sebastes nebulosus
+Size: Up to 17 inches (43.5 cm)
+Lifespan: maximum reported age is 79 years
+Range: Southeastern Alaska to southern California, but rare below northern California.
+Habitat: Rocky reefs from 10-420 feet (3-128 m), though they are most often found at depths of 30-300 feet (9-91 m).</text>
+		</slide>
+		<slide index="40" title="copper rockfish" titleNormalized="copper rockfish" src="slide41.swf" size="17804" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>copper rockfish
+Identification Notes
+Wide, whitish to pinkish stripe runs along rear half of lateral line
+Prominent dark band slopes downward from eye to pectoral fin. 
+Similar species: gopher rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="41" title="copper rockfish" titleNormalized="copper rockfish" src="slide42.swf" size="2276" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>copper rockfish
+Scientific Name: Sebastes caurinus
+Size: Up to 23 inches (59 cm), but average size is 10-16 inches (25-40 cm).
+Lifespan: maximum reported age is 55 years
+Range: Found from southeastern Alaska to Baja California; most abundant from British Columbia to southern California.
+Habitat: Coppers prefer rocky areas: from offshore reefs to shallow, protected bays, inlets and kelp forests. Occasionally they can be found around docks and jetties. They can be found from 0-600 feet (183 m), but are most common in waters less than 400 feet (122 m). Juveniles tend to live in shallow waters less than 20 feet (6 m) deep.</text>
+		</slide>
+		<slide index="42" title="darkblotched rockfish" titleNormalized="darkblotched rockfish" src="slide43.swf" size="16637" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>darkblotched rockfish
+Identification Notes
+Five dark blotches along the dorsum (back)
+photo by Michael Durham</text>
+		</slide>
+		<slide index="43" title="darkblotched rockfish" titleNormalized="darkblotched rockfish" src="slide44.swf" size="2120" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>darkblotched rockfish 
+Scientific Name: Sebastes crameri 
+Size: Maximum length is 22 in (58 cm) 
+Lifespan: Maximum reported age is 66 years.
+Range: Bering Sea to Santa Catalina Island, California
+Habitat: Adults are often observed resting on mud near cobbles or boulders. They do not often rise above the bottom. They can be found in depths between 83 -2,982 feet (25-904 m), with most living in waters between 462-963 feet (140-210 m).</text>
+		</slide>
+		<slide index="44" title="gopher rockfish" titleNormalized="gopher rockfish" src="slide45.swf" size="18102" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>gopher rockfish
+Identification Notes
+Dark brown along the back with irregular white blotches
+No clear, wide lighter stripe along the lateral line
+Similar species: copper rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="45" title="gopher rockfish" titleNormalized="gopher rockfish" src="slide46.swf" size="2175" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>gopher rockfish
+Scientific Name: Sebastes carnatus
+Size: Maximum size is 17 inches (42.5 cm)
+Lifespan: Maximum reported age is 30 years, but most probably don’t reach more than 20
+Range: Cape Blanco, Oregon to Punta San Roque, southern Baja California.
+Habitat: Inhabit rocky areas, lurking in caves and crevices. Often found resting on the bottom propped up by their fins. Most common between 30-120 feet (9-36 m), but can be found from 0-180 feet (0-55 m).</text>
+		</slide>
+		<slide index="46" title="grass rockfish" titleNormalized="grass rockfish" src="slide47.swf" size="17021" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>grass rockfish
+Identification Notes
+Head and back mottled with dark blotches in shades of dark green, grey and black
+Lack of other identifying features
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="47" title="grass rockfish" titleNormalized="grass rockfish" src="slide48.swf" size="2214" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>grass rockfish
+Scientific Name: Sebastes rastrelliger
+Size: 8-16 in (20-40 cm), 22 in (56 cm) maximum
+Lifespan: At least 22 years
+Range: Yaquina Bay, Oregon to Bahia Playa Maria, central Baja California
+Habitat: Grass rockfish are rocky reef dwellers, usually found over rugged bottoms where caves and crevices are common. They can also be found over cobble. Juveniles and occasionally adults may be found in tide pools. Grass rockfish can be found at depths from 0-150 feet (0-46 m), and are one of the shallowest dwelling of all rockfish.</text>
+		</slide>
+		<slide index="48" title="quillback rockfish" titleNormalized="quillback rockfish" src="slide49.swf" size="17532" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>quillback rockfish
+Identification Notes
+Prominent dorsal spines
+Cream to yellow colored irregular blotch under the first dorsal fin
+Similar species: brown rockfish
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="49" title="quillback rockfish" titleNormalized="quillback rockfish" src="slide50.swf" size="2096" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>quillback rockfish
+Scientific Name: Sebastes maliger 
+Size: 24 inches (61.0 cm) is the maximum recorded size, 7.23 lbs (3.28 kg) is the maximum recorded weight.
+Lifespan: Maximum reported age is 90 years
+Range: Prince William Sound, Gulf of Alaska to Point Sur, central California
+Habitat: Inhabit rocky bottoms and reefs, usually solitary on the bottom or hovering just above the bottom, but never far from cover.</text>
+		</slide>
+		<slide index="50" title="starry rockfish" titleNormalized="starry rockfish" src="slide51.swf" size="15048" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry rockfish
+Identification Notes
+Numerous small white speckles all over body
+Large white blotches on back
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="51" title="starry rockfish" titleNormalized="starry rockfish" src="slide52.swf" size="2088" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry rockfish
+Scientific Name: Sebastes constellatus 
+Size: Maximum size is 18 in (46 cm)
+Lifespan: Maximum reported age is 32 years
+Range: San Francisco, California to southern Baja California
+Habitat: Starries are found on high relief rocks, boulder fields and occasionally over cobble fields. They are rarely found more than 3 feet (1 m) off the bottom. They are seen from 100-396 feet (30-120 m).</text>
+		</slide>
+		<slide index="52" title="tiger rockfish" titleNormalized="tiger rockfish" src="slide53.swf" size="16975" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>tiger rockfish
+Identification Notes
+Five dark red to black bars on the body
+No bars at the base of the tail
+photo by Michael Durham</text>
+		</slide>
+		<slide index="53" title="tiger rockfish" titleNormalized="tiger rockfish" src="slide54.swf" size="2074" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>tiger rockfish
+Scientific Name: Sebastes nigrocinctus 
+Size: Maximum size is 16 in (24 cm) and 
+Lifespan: Maximum reported age is 116 years
+Range: Prince William Sound, Alaska to Point Buchon, California
+Habitat: Tigers are found in rocky reefs and boulder fields, often living in crevices, caves, and other protective recesses. They are seen from 80-900 feet (24-274 m)</text>
+		</slide>
+		<slide index="54" title="treefish" titleNormalized="treefish" src="slide55.swf" size="18991" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>treefish
+Identification Notes
+Five to six wide (sometimes double) black to dark brown bars on body and base of tail
+Reddish lips on older individuals (not present on individual pictured)
+photo by Randall R. Beiderwell, Alpenglow Productions</text>
+		</slide>
+		<slide index="55" title="treefish" titleNormalized="treefish" src="slide56.swf" size="2032" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>treefish
+Scientific Name: Sebastes serriceps
+Size: Maximum size is 16 in (41 cm)
+Lifespan: Unknown
+Range: San Francisco, California to Cedros Island, Baja California. 
+Habitat: Treefish are located around rocky reefs with caves, crevices, or other protective recesses that allow them to hide. They are seen from 10-150 feet (up to 46 m).</text>
+		</slide>
+		<slide index="56" title="vermilion rockfish" titleNormalized="vermilion rockfish" src="slide57.swf" size="14385" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>vermilion rockfish
+Identification Notes
+Fins often edged in black or dark brown (see tail fin)
+Thin pale strip along lateral line
+Tail fin less forked with more rounded tips than on a canary rockfish
+Similar species: canary rockfish, yelloweye rockfish
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="57" title="vermilion rockfish" titleNormalized="vermilion rockfish" src="slide58.swf" size="2031" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>vermilion rockfish
+Scientific Name: Sebastes miniatus
+Size: Maximum size is 30 in (76 cm)
+Lifespan: Maximum recorded age is 43 years 
+Range: Cape Bartolome, southeast Alaska to San Benito Islands, Baja California
+Habitat: Vermilions are found in rocky reefs and areas strewn with boulders and stones. They are found from 40-900 feet (up to 275 m).</text>
+		</slide>
+		<slide index="58" title="yelloweye rockfish" titleNormalized="yelloweye rockfish" src="slide59.swf" size="14871" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yelloweye rockfish
+Identification Notes
+Bright yellow iris
+May be confused with other red rockfish. Note the lack of other distinct markings that distinguish other species
+Similar species: canary rockfish, vermillion rockfish
+photo by Michael Durham</text>
+		</slide>
+		<slide index="59" title="yelloweye rockfish" titleNormalized="yelloweye rockfish" src="slide60.swf" size="2032" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yelloweye rockfish
+Scientific Name: Sebastes ruberrimus
+Size: Maximum size is 36 in (91 cm)
+Lifespan: Maximum reported age is 118 years.
+Range: Unman Island, Alaska to Ensenada, Baja California 
+Habitat: Yelloweyes are found in rocky offshore reefs where there are plenty of caves and crevices. They are found from 50-1,800 feet (15-549 m).</text>
+		</slide>
+		<slide index="60" title="yellowtail rockfish" titleNormalized="yellowtail rockfish" src="slide61.swf" size="18710" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yellowtail rockfish
+Identification Notes
+Several pale spots below the dorsal fin
+Yellow colored fins
+One or two areas of yellow behind the eye
+photo by Michael Durham</text>
+		</slide>
+		<slide index="61" title="yellowtail rockfish" titleNormalized="yellowtail rockfish" src="slide62.swf" size="2066" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yellowtail rockfish
+Scientific Name: Sebastes flavidus
+Size: Maximum size is 26 in (66 cm)
+Lifespan: Maximum reported age is 64 years
+Range: Unalaska Island, Alaska to San Diego, California 
+Habitat: Yellowtails live in schools in open water, especially above banks and reefs. At night they usually rest on the ocean bottom. They are found from 0-1,800 feet (0-549 m).</text>
+		</slide>
+		<slide index="62" title="cabezon" titleNormalized="cabezon" src="slide63.swf" size="42094" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>cabezon
+Identification Notes
+Short cirrus (protruding appendage) centered near tip of snout
+Prominent cirrus above each eye
+photo by Michael Durham</text>
+		</slide>
+		<slide index="63" title="cabezon" titleNormalized="cabezon" src="slide64.swf" size="2054" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>cabezon
+Scientific Name: Scorpaenichthys marmoratus
+Size: Up to 39 inches (99 cm) and 30 pounds (14 kg)
+Lifespan: Females live up to 13 years, males live up to 9.
+Range: Common from Alaska to Baja California
+Habitat: Normally bottom dwellers, living among rocks and seaweeds in tide pools and to depths of 250 feet (76 m). Their coloration allows them to be well camouflaged.</text>
+		</slide>
+		<slide index="64" title="staghorn sculpin" titleNormalized="staghorn sculpin" src="slide65.swf" size="17459" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>staghorn sculpin
+Identification Notes
+Dark blotch on the rear of the first dorsal fin
+Dark bars on pectoral, dorsal and tail fins</text>
+		</slide>
+		<slide index="65" title="staghorn sculpin" titleNormalized="staghorn sculpin" src="slide66.swf" size="2117" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>staghorn sculpin
+Scientific Name: Leptocottus armatus
+Size: Up to 18 in (46 cm) 
+Lifespan: Maximum reported age is 10 years.
+Range: The Bering Sea to San Quintin Bay in Baja California
+Habitat: Staghorns are located on soft bottoms (such as sand or mud) in inlets, bays, estuaries, and occasionally offshore. They rest on the bottom and often bury themselves with only their heads showing. They are found from 0-300 feet (0-91 m)</text>
+		</slide>
+		<slide index="66" title="kelp greenling" titleNormalized="kelp greenling" src="slide67.swf" size="19334" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>kelp greenling
+Identification Notes
+Female: speckled with red-brown to gold spots over bluish white to pale cream
+Male: blue irregular spots on head and fore body, outlined by a few dark reddish brown spots
+photo by Dana Africa
+photo by Cindy Hanson</text>
+		</slide>
+		<slide index="67" title="kelp greenling" titleNormalized="kelp greenling" src="slide68.swf" size="1992" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>kelp greenling
+Scientific Name: Hexagrammos decagrammus
+Size: Up to 21 inches (53 cm)
+Lifespan: Maximum reported age is 12 years
+Range: Common from the Aleutian Islands, Alaska to southern California.
+Habitat: Found in kelp beds, rocky inshore areas and on sandy bottoms to 150 feet (46 m).</text>
+		</slide>
+		<slide index="68" title="lingcod" titleNormalized="lingcod" src="slide69.swf" size="17639" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>lingcod
+Identification Notes
+Large mouth with prominent canine teeth
+Elongate body with mottled coloration
+photo by Dana Africa</text>
+		</slide>
+		<slide index="69" title="lingcod" titleNormalized="lingcod" src="slide70.swf" size="2128" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>lingcod
+Scientific Name: Ophiodon elongatus
+Size: Up to 5 feet (152 cm) and 105 lb. (48 kg.) 
+Lifespan: Maximum reported age is 16 years.
+Range: Shumagin Islands, Alaska to Point San Carlos, Baja California
+Habitat: Juveniles are generally found on sand and mud bottom, while adults are found in rock areas. They often patrol established territories. They are located from 6-1,583 feet (2-475 m).</text>
+		</slide>
+		<slide index="70" title="rock greenling" titleNormalized="rock greenling" src="slide71.swf" size="20808" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>rock greenling
+Identification Notes
+Large bushy cirri above each eye
+Light colored diagonal band sloping down from the eye
+photo by Cindy Hanson</text>
+		</slide>
+		<slide index="71" title="rock greenling" titleNormalized="rock greenling" src="slide72.swf" size="1994" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>rock greenling
+Scientific Name: Hexagrammos lagocephalus 
+Size: Up to 24 in (61 cm) and 18 pounds (8.3 kg).
+Lifespan: Unknown
+Range: The Bering Sea, Alaska to Point Conception, California
+Habitat: Rock Greenlings are found around shallow, rocky reefs and kelp beds, especially along exposed coasts, in depths from 0-60 feet.</text>
+		</slide>
+		<slide index="72" title="sablefish" titleNormalized="sablefish" src="slide73.swf" size="9194" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>sablefish
+Identification Notes
+Elongated, slightly compressed body shape
+Two well separated dorsal fins</text>
+		</slide>
+		<slide index="73" title="sablefish" titleNormalized="sablefish" src="slide74.swf" size="2117" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>sablefish
+Scientific Name: Anoplopoma fimbria
+Size: Up to 3.3 feet (1 m) and 125 pounds (57 kg).
+Lifespan: Maximum reported age is 114 years. 
+Range: From the Honshu Island, Japan, north to the Bering Sea in Alaska, and southeast down to Point San Carlos, Baja California.
+Habitat: Sablefish live in deep water over soft bottoms. Young may appear near shore in shallower depths. They are located from 0-5,000 feet (0-1,524 m).</text>
+		</slide>
+		<slide index="74" title="kelp bass" titleNormalized="kelp bass" src="slide75.swf" size="13621" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>kelp bass
+Identification Notes
+Large pale blotches on the back of the fish.
+No yellow markings on any of the fins
+Similar species: yellowtail rockfish
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="75" title="kelp bass" titleNormalized="kelp bass" src="slide76.swf" size="2076" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>kelp bass
+Scientific Name: Paralabrax clathratus
+Size: Up to 28.5 in (72 cm) and 14.5 lb (6.6 kg)
+Lifespan: Unknown
+Range: The Columbia River, Washington to Magdalena Bay, Baja California
+Habitat: Smaller kelp basses live in kelp beds, seaweed flats, and rocky inshore areas. Large adults will live in patch reefs and areas of sand. They live from 10-150 feet (3-46 m).</text>
+		</slide>
+		<slide index="76" title="chub mackerel" titleNormalized="chub mackerel" src="slide77.swf" size="32454" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>chub mackerel
+Identification Notes
+Numerous dark, slanting, wavy bars on the back of the fish
+The two dorsal fins are widely separated
+photo from www.photolib.noaa.gov</text>
+		</slide>
+		<slide index="77" title="chub mackerel" titleNormalized="chub mackerel" src="slide78.swf" size="2094" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>chub mackerel
+Scientific Name: Scomber japonicus
+Size: Up to 25 in (64 cm) and 6.3 lb. (2.9 kg)
+Lifespan: Maximum reported age is 18 years.
+Range: Located worldwide, but in the eastern Pacific are found from Alaska to Chile.
+Habitat: These are pelagic fish, often schooling together. They occasionally school with jack mackerel and Pacific sardines. They are found from 0-150 feet (0-300 m)</text>
+		</slide>
+		<slide index="78" title="yellowtail jack" titleNormalized="yellowtail jack" src="slide79.swf" size="12487" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yellowtail jack
+Identification Notes
+Yellow fins
+Dusky yellow stripe on each side which extends through the eye
+photo from www.photolib.noaa.gov</text>
+		</slide>
+		<slide index="79" title="yellowtail jack" titleNormalized="yellowtail jack" src="slide80.swf" size="2182" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>yellowtail jack
+Scientific Name: Seriola lalandi
+Size: 1 ½ - 3 feet (45-90 cm) on average, with a maximum of 5 feet (150 cm). The maximum recorded weight is 178 pounds (80.6 kg).
+Lifespan: Unknown
+Range: Found throughout subtropical seas nearly worldwide. In the eastern Pacific, they are found from British Columbia to Chile.
+Habitat: Commonly cruise in open water between 10-20 feet (3-6 m), often under kelp rafts and offshore rigs. Their depth range is 3-120 feet (1-36 m).</text>
+		</slide>
+		<slide index="80" title="ocean whitefish" titleNormalized="ocean whitefish" src="slide81.swf" size="13908" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocean whitefish
+Identification Notes
+Yellowish borders on tail
+Yellow streak down the center of the pectoral fin (not well defined on pictured individual)
+Photo by Diana Churchill</text>
+		</slide>
+		<slide index="81" title="ocean whitefish" titleNormalized="ocean whitefish" src="slide82.swf" size="2152" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocean whitefish
+Scientific Name: Caulolatilus princeps
+Size: Usually 8-15 inches (24-38 cm), with a maximum of 1.5 feet (46 cm). Maximum recorded weight is 12.6 pounds (5.7 kg).
+Lifespan: Unknown
+Range: Vancouver Island, British Columbia to Peru, including the Galapagos Islands; rare north of central California. 
+Habitat: Inhabit rocky areas, especially high profile reefs and occasionally kelp beds. Most common between 80-100 feet (24-30 m) around offshore islands.</text>
+		</slide>
+		<slide index="82" title="pile perch" titleNormalized="pile perch" src="slide83.swf" size="16845" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pile perch
+Identification Notes
+Dusky to dark bar about two thirds of the way back on either side
+Similar species: silver surfperch, walleye surfperch, and white seaperch
+photo by Dana Africa</text>
+		</slide>
+		<slide index="83" title="pile perch" titleNormalized="pile perch" src="slide84.swf" size="2165" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pile perch
+Scientific Name: Rhacochilus vacca   
+Size: 6-14 inches (15-35 cm) on average, 17 ¼ inches (43 cm) maximum.
+Lifespan: ~7-10 years
+Range: Southeastern Alaska to Guadalupe Island, off north-central Baja California 
+Habitat: Inhabit a wide range of habitats from rocky reefs to kelp beds, under docks and around jetties and oil rigs. Most common between 10-65 feet (3-20 m).</text>
+		</slide>
+		<slide index="84" title="silver surfperch" titleNormalized="silver surfperch" src="slide85.swf" size="17260" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>silver surfperch
+Identification Notes
+Faint bars on each side (not present on pictured individual)
+No spots or dark coloration on the dorsal, anal or pelvic fins
+Tail is usually pinkish in color
+Similar species: pile perch, walleye surfperch, and white seaperch
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="85" title="silver surfperch" titleNormalized="silver surfperch" src="slide86.swf" size="2057" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>silver surfperch
+Scientific Name: Hyperprosopon ellipticum   
+Size: Maximum length is 10 inches (27.0 cm) 
+Lifespan: ~8 years
+Range: Southern British Columbia to Rio San Vincente, northern Baja California 
+Habitat: May be found in the surf, over sand and around rocks and piers to depths of 360 feet (110 m).</text>
+		</slide>
+		<slide index="86" title="striped seaperch" titleNormalized="striped seaperch" src="slide87.swf" size="11830" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>striped seaperch
+Identification Notes
+Iridescent blue stripes separated by copper colored stripes
+photo by Cindy Hanson</text>
+		</slide>
+		<slide index="87" title="striped seaperch" titleNormalized="striped seaperch" src="slide88.swf" size="2127" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>striped seaperch
+Scientific Name: Embiotoca lateralis 
+Size: 5-12 inches (12-30 cm) on average, 15 inches (38 cm) maximum.
+Lifespan: ~6-10 years
+Range: Wrangell, southeastern Alaska to Point Cabras, northern Baja California
+Habitat: Wide range of habitats from rocky reefs and kelp forests, eelgrass and leafy algae areas to sandy/rocky surf zones, and occasionally under docks. Found at depths from 10-70 feet (3-21 m).</text>
+		</slide>
+		<slide index="88" title="walleye surfperch" titleNormalized="walleye surfperch" src="slide89.swf" size="14480" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>walleye surfperch
+Identification Notes
+Large eyes relative to other perches
+Faint dusky bars on each side (not pictured)
+Wide, black edge on the ventral fin (not pictured)
+Similar species: pile perch, silver surfperch, and white seaperch</text>
+		</slide>
+		<slide index="89" title="walleye surfperch" titleNormalized="walleye surfperch" src="slide90.swf" size="2158" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>walleye surfperch
+Scientific Name: Hyperprosopon argenteum     
+Size: 5-9 inches (12-23 cm) on average, 1 foot (30 cm) maximum.
+Lifespan: ~6-10 years
+Range: Vancouver Island, British Columbia to central Baja California, including Guadalupe Island.
+Habitat: Usually inhabit shallow, sandy areas, often in the surf or just behind the surf line. Occasionally around rocky areas and kelp beds. Most common 30 feet (9 m) and above.</text>
+		</slide>
+		<slide index="90" title="white seaperch" titleNormalized="white seaperch" src="slide91.swf" size="21416" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>white seaperch
+Identification Notes
+Black line at the base of the dorsal fin
+Deeply forked tail, often with dusky edging
+Similar species: pile perch, silver surfperch, and walleye surfperch
+Photo by Michael Durham</text>
+		</slide>
+		<slide index="91" title="white seaperch" titleNormalized="white seaperch" src="slide92.swf" size="2155" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>white seaperch
+Scientific Name: Phanerodon furcatus
+Size: 4-7 inches (10-18 cm) on average, 12 ½ inches (32 cm) maximum.
+Lifespan: ~6-10 years
+Range: Vancouver Island, British Columbia to Punta Cabras, northern Baja California 
+Habitat: Inhabit shallow bays, often near docks and jetties; also offshore over sandy areas and rocky reefs, and around kelp beds. They tend to prefer calmer water in depths from 0-200 feet (0-61 m).</text>
+		</slide>
+		<slide index="92" title="halfmoon" titleNormalized="halfmoon" src="slide93.swf" size="13049" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>halfmoon
+Identification Notes
+Usually a dark spot on upper gill cover
+Faint dusky bars on each side of the fish
+Photo by Diana Churchill</text>
+		</slide>
+		<slide index="93" title="halfmoon" titleNormalized="halfmoon" src="slide94.swf" size="2135" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>halfmoon
+Scientific Name: Medialuna californiensis 
+Size: 6-16 inches (15-41 cm) on average, 19 inches (48 cm) maximum. 
+Lifespan: Unknown
+Range: Vancouver Island, British Columbia to Gulf of California; rare north of Point Conception, California 
+Habitat: School near high profile reefs, kelp beds, oil rigs and occasionally under floating mats of vegetation. They may be found from 0-130 feet (0-40 m).</text>
+		</slide>
+		<slide index="94" title="wolf-eel" titleNormalized="wolf-eel" src="slide95.swf" size="21666" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>wolf-eel
+Identification Notes
+Large bulbous head with a big mouth and numerous blunt teeth
+Dark spots with a light border along entire body
+Photo by Michael Durham</text>
+		</slide>
+		<slide index="95" title="wolf-eel" titleNormalized="wolf-eel" src="slide96.swf" size="2091" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>wolf-eel
+Scientific Name: Anarrhichthys ocellatus 
+Size: 2 ½ -5 feet (76-152 cm) on average, 8 feet (2.4 m) maximum. The maximum published weight is 40 pounds (18.4 kg).
+Lifespan: Unknown
+Range: The Sea of Japan and the Aleutian Island chain to Imperial Beach, southern California 
+Habitat: Inhabit dens in crevices, caves and other recesses in rocky, boulder strewn areas. They may be found from 0-700 feet (0-213 m).</text>
+		</slide>
+		<slide index="96" title="pacific halibut" titleNormalized="pacific halibut" src="slide97.swf" size="22632" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pacific halibut
+Identification Notes
+Large mouth extends to or behind the eye
+May be distinguished from other flatfish in POD by its size
+photo by Randall R. Beiderwell, Alpenglow Productions 
+</text>
+		</slide>
+		<slide index="97" title="pacific halibut" titleNormalized="pacific halibut" src="slide98.swf" size="2124" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>pacific halibut
+Scientific Name: Hippoglossus stenolepis
+Size: 1 ½-3 feet (45-91 cm) on average, 8 ½ feet (2.6 m) maximum. The maximum published weight is 363 kg.
+Lifespan: Maximum reported age is 42 years
+Range: Japan and Alaska to Point Camalu, Baja California 
+Habitat: Inhabit flat sandy, silt or mud bottoms. They live within 25-3,500 feet (8-1066 m). Young individuals are often found much shallower than adults.</text>
+		</slide>
+		<slide index="98" title="starry flounder" titleNormalized="starry flounder" src="slide99.swf" size="21366" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry flounder
+Identification Notes
+Alternating orange to yellow and gray to black bars on dorsal, anal and tail fins
+photo by Dana Africa</text>
+		</slide>
+		<slide index="99" title="starry flounder" titleNormalized="starry flounder" src="slide100.swf" size="2235" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>starry flounder
+Scientific Name: Platichthys stellatus
+Size: usually 1-2.5 feet (30-76 cm), up to 3 feet (90 cm) and weight up to 20 pounds (9 kg).
+Lifespan: Females are generally longer lived than males, oldest on record is 24 years.
+Range: Japan and Korea around the Pacific basin to Artic Alaska and south to central California
+Habitat: Starry flounder live from 2 -1,250 feet (1-375 m), but are usually found in shallow waters, near shore. They prefer soft bottoms and can be found near eelgrass beds, under wharves and in estuaries (where they tolerate brackish and even freshwater).</text>
+		</slide>
+		<slide index="100" title="chinook salmon" titleNormalized="chinook salmon" src="slide101.swf" size="12284" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>chinook salmon
+Identification Notes
+Small irregular spots on the entire tail
+Lips and gums at the base of the teeth are black
+photo by Diana Churchill</text>
+		</slide>
+		<slide index="101" title="chinook salmon" titleNormalized="chinook salmon" src="slide102.swf" size="2219" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>chinook salmon
+Scientific Name: Oncorhynchus tshawytscha
+Size: The maximum recorded length is 59 inches (150 cm); weight is 135 pounds (61.4 kg). 
+Lifespan: Maximum reported age is 9 years 
+Range: Point Hope, Alaska to Ventura River, California; occasionally strays south to San Diego, California
+Habitat: In the ocean, Chinook live near the surface to middle depths. Normally they tend to stay close to shore, but they have been found as much as 1,000 miles (1600 km) offshore. They return to freshwater streams to spawn.</text>
+		</slide>
+	</slides>
+</presentation>

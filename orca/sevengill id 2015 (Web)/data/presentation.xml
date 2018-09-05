@@ -1,0 +1,1514 @@
+<?xml version="1.0"?>
+<presentation title="Sevengill ID" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{F8FDCBD9-ADB6-43CB-8C6C-C8F370C8464E}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb45.swf" embedded="0"/>
+		<graphicAsset id="imgAsset45" src="thmb46.swf" embedded="0"/>
+		<graphicAsset id="imgAsset46" src="thmb47.swf" embedded="0"/>
+		<graphicAsset id="imgAsset47" src="thmb48.swf" embedded="0"/>
+		<graphicAsset id="imgAsset48" src="thmb49.swf" embedded="0"/>
+		<graphicAsset id="imgAsset49" src="thmb50.swf" embedded="0"/>
+		<graphicAsset id="imgAsset50" src="thmb51.swf" embedded="0"/>
+		<graphicAsset id="imgAsset51" src="thmb52.swf" embedded="0"/>
+		<graphicAsset id="imgAsset52" src="thmb53.swf" embedded="0"/>
+		<graphicAsset id="imgAsset53" src="thmb54.swf" embedded="0"/>
+		<graphicAsset id="imgAsset54" src="thmb55.swf" embedded="0"/>
+		<graphicAsset id="imgAsset55" src="thmb56.swf" embedded="0"/>
+		<graphicAsset id="imgAsset56" src="thmb57.swf" embedded="0"/>
+		<graphicAsset id="imgAsset57" src="thmb58.swf" embedded="0"/>
+		<graphicAsset id="imgAsset58" src="thmb59.swf" embedded="0"/>
+		<graphicAsset id="imgAsset59" src="thmb60.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#163C61</color>
+				<color id="button.content.over">#24589B</color>
+				<color id="button.face.normal">#87C3FD</color>
+				<color id="button.face.over">#B9DBFD</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#296AB2</color>
+				<color id="listItem.face.over">#D6ECFF</color>
+				<color id="listItem.face.pressed">#24589B</color>
+				<color id="listItem.label.over">#434B57</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#546B94</color>
+				<color id="page.background">#303941</color>
+				<color id="panel.background">#2E6395</color>
+				<color id="panel.text">#D6ECFF</color>
+				<color id="player.background">#1D2F3F</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#29353F</color>
+				<color id="progress.loading">#FFFFFF</color>
+				<color id="progress.playback">#87C3FD</color>
+				<color id="text">#434B57</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Sevengill Shark ID Tool" titleNormalized="sevengill shark id tool" src="slide1.swf" size="54466" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Sevengill Shark ID Tool
+Version 2.0
+December 2015</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="1" title="ID Tips" titleNormalized="id tips" src="slide2.swf" size="981" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ID Tips</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="2" title="General ID Tips" titleNormalized="general id tips" src="slide3.swf" size="1690" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>General ID Tips
+Most modern sharks have 5 gill slits and 2 dorsal fins
+A sevengill shark’s single dorsal fin is set far back along the spine towards the caudal fin, and is behind the pelvic fins</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="3" title="General ID Tips" titleNormalized="general id tips" src="slide4.swf" size="1583" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>General ID Tips
+Upper caudal fin is much longer than the lower, and is slightly notched near the tip
+Body and fins are covered in black &amp; white spots</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="4" title="Aquarium-specific ID Tips" titleNormalized="aquarium-specific id tips" src="slide5.swf" size="1724" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Aquarium-specific ID Tips
+Scars and nose rubs are not good differentiating features because they heal quickly
+As they age, spots getter lighter or darker (so also not a good differentiator)
+8 of the 9 sevengill sharks at the Oregon Coast Aquarium are male (exception is Miss Piggy, the largest shark in the exhibit)
+8 of the 9 sharks generally swim in a counter-clockwise direction (exception is Pongo)</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="5" title="The Sharks" titleNormalized="the sharks" src="slide6.swf" size="5530" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The Sharks</text>
+			<branching>
+				<nextSlide>
+					<index>59</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="6" title="Miss Piggy" titleNormalized="miss piggy" src="slide7.swf" size="986" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="7" title="Miss Piggy" titleNormalized="miss piggy" src="slide8.swf" size="475203" advanceOnTime="0" framesCount="385" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2324c6b7aa0.spr0_3485171" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2324c6b7aa0.spr2_3485171" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="384" playTime="16.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy</text>
+		</slide>
+		<slide index="8" title="Miss Piggy" titleNormalized="miss piggy" src="slide9.swf" size="9473" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy
+Largest shark in exhibit and only female (no claspers)
+Leading edge of R pectoral chopped from old wound
+Deep notch in L pectoral fin trailing edge
+Likes to swim close to divers
+Generally swims CCW
+Number 1</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="9" title="Miss Piggy" titleNormalized="miss piggy" src="slide10.swf" size="43896" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy
+❶
+❷
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="10" title="Miss Piggy" titleNormalized="miss piggy" src="slide11.swf" size="33900" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy
+❷
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="11" title="Miss Piggy" titleNormalized="miss piggy" src="slide12.swf" size="29807" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miss Piggy
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="12" title="Casper" titleNormalized="casper" src="slide13.swf" size="982" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Casper</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="13" title="Casper" titleNormalized="casper" src="slide14.swf" size="138181" advanceOnTime="0" framesCount="319" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_23251f9b560.spr0_3493718" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23251f9b560.spr2_3493718" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="318" playTime="13.2500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Casper</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="14" title="Casper" titleNormalized="casper" src="slide15.swf" size="8829" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Casper
+Ghost image on belly
+Bottom of L pectoral is clean (no spots) unlike Lil’ D
+Constellation scar mid L side (old injury, faded)
+Generally swims CCW
+Number 2</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="15" title="Casper" titleNormalized="casper" src="slide16.swf" size="40936" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Casper
+no spot
+❶
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="16" title="Casper" titleNormalized="casper" src="slide17.swf" size="35550" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Casper
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="17" title="Spot" titleNormalized="spot" src="slide18.swf" size="979" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="18" title="Spot" titleNormalized="spot" src="slide19.swf" size="214600" advanceOnTime="0" framesCount="269" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_23251f8a460.spr0_3498390" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23251f8a460.spr2_3498390" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="268" playTime="11.1666667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="19" title="Spot" titleNormalized="spot" src="slide20.swf" size="10177" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot
+“thumbprint” center of chest between pectoral fins
+Note Pat also has this mark, but only Spot has “nipple” marks
+Bottom of 1st gill on L side is scarred from old wound
+Constellation arc of white scars on L side
+Arc instead of Casper’s constellation
+Generally swims CCW
+Number 3</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="20" title="Spot" titleNormalized="spot" src="slide21.swf" size="50157" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="21" title="Spot" titleNormalized="spot" src="slide22.swf" size="34745" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot
+❷
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="22" title="Spot" titleNormalized="spot" src="slide23.swf" size="39868" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Spot
+❸
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="23" title="Pat" titleNormalized="pat" src="slide24.swf" size="980" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pat</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="24" title="Pat" titleNormalized="pat" src="slide25.swf" size="305191" advanceOnTime="0" framesCount="231" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_232524187b0.spr0_3503609" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_232524187b0.spr2_3503609" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="230" playTime="9.5833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pat</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="25" title="Pat" titleNormalized="pat" src="slide26.swf" size="38123" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_2325241ccc0.spr0_3504406" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_2325241ccc0.spr2_3504406" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="1"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pat
+“thumbprint” center of chest between pectoral fins
+Note Spot also has this mark, but only Spot has “nipple” marks
+Notch out of trailing edge of R pectoral fin
+Clean, dark topside with few spots
+Generally swims CCW
+Pat</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="26" title="Pat" titleNormalized="pat" src="slide27.swf" size="45025" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pat
+❶
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="27" title="Pat" titleNormalized="pat" src="slide28.swf" size="25790" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pat
+❷
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="28" title="Pongo" titleNormalized="pongo" src="slide29.swf" size="981" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="29" title="Pongo" titleNormalized="pongo" src="slide30.swf" size="297396" advanceOnTime="0" framesCount="361" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_23252409ce0.spr0_3508171" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23252409ce0.spr2_3508171" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="360" playTime="15.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo</text>
+		</slide>
+		<slide index="30" title="Pongo" titleNormalized="pongo" src="slide31.swf" size="29631" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_2325279a810.spr0_3508906" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_2325279a810.spr2_3508906" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="1"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo
+Many dark spots on back
+Large dark smudge between R eye and nose
+Two “teardrops” under L eye
+Generally swims CW
+Crazy (swimmer)</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="31" title="Pongo" titleNormalized="pongo" src="slide32.swf" size="63943" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset31">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="32" title="Pongo" titleNormalized="pongo" src="slide33.swf" size="25836" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="33" title="Pongo" titleNormalized="pongo" src="slide34.swf" size="41439" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset33">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pongo
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="34" title="Lil’ D" titleNormalized="lil’ d" src="slide35.swf" size="985" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="35" title="Lil’ D" titleNormalized="lil’ d" src="slide36.swf" size="228313" advanceOnTime="0" framesCount="358" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset35">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_23241a16cb0.spr0_3515000" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23241a16cb0.spr2_3515000" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="357" playTime="14.8750000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="36" title="Lil’ D" titleNormalized="lil’ d" src="slide37.swf" size="8572" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset36">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D
+Blotchy back
+Two black spots on bottom L side of throat
+“ghost” image on chest (similar to Casper)
+Dark spot center of underside of L pectoral
+Single teardrop centered under both R &amp; L eyes
+Black spot in front of gills on R side
+Generally swims CCW
+Little</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="37" title="Lil’ D" titleNormalized="lil’ d" src="slide38.swf" size="35678" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset37">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="38" title="Lil’ D" titleNormalized="lil’ d" src="slide39.swf" size="73691" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset38">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D
+❷
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="39" title="Lil’ D" titleNormalized="lil’ d" src="slide40.swf" size="29742" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset39">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D
+❹</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="40" title="Lil’ D" titleNormalized="lil’ d" src="slide41.swf" size="27285" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset40">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lil’ D
+</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="41" title="Bull" titleNormalized="bull" src="slide42.swf" size="981" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="42" title="Bull" titleNormalized="bull" src="slide43.swf" size="493074" advanceOnTime="0" framesCount="260" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset42">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_232496a0ba0.spr0_3520640" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_232496a0ba0.spr2_3520640" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="259" playTime="10.7916667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull</text>
+		</slide>
+		<slide index="43" title="Bull" titleNormalized="bull" src="slide44.swf" size="24550" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset43">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+“salt &amp; pepper beard”
+Two black spots above both R &amp; L pectoral fin insertions
+Two black spots top of L pectoral fin
+Trailing edge of dorsal fin is quite ragged
+Generally swims CCW, but very irregular – sudden changes of direction
+Swims close to divers, loves to intimidate
+Hook ‘em Horns</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="44" title="Bull" titleNormalized="bull" src="slide45.swf" size="40859" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset44">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+❶
+❷
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="45" title="Bull" titleNormalized="bull" src="slide46.swf" size="28135" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset45">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="46" title="Bull" titleNormalized="bull" src="slide47.swf" size="34056" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset46">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="47" title="Bull" titleNormalized="bull" src="slide48.swf" size="50593" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset47">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+❸</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="48" title="Bull" titleNormalized="bull" src="slide49.swf" size="36799" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset48">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bull
+❹</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="49" title="Mugs" titleNormalized="mugs" src="slide50.swf" size="981" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset49">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mugs</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="50" title="Mugs" titleNormalized="mugs" src="slide51.swf" size="391626" advanceOnTime="0" framesCount="318" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset50">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_23249696e00.spr0_3526281" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23249696e00.spr2_3526281" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="317" playTime="13.2083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mugs</text>
+		</slide>
+		<slide index="51" title="Mugs" titleNormalized="mugs" src="slide52.swf" size="76171" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset51">
+			<sounds/>
+			<videos>
+				<video id="video10" videoClipId="ispring.resources_2324969f8f0.spr0_3527968" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_2324969f8f0.spr2_3527968" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="1"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mugs
+White spot in front of gills L side
+Two white spots above pectoral fin insertion L side
+Generally swims CCW
+Boxing</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="52" title="Mugs" titleNormalized="mugs" src="slide53.swf" size="45355" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset52">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mugs
+❶
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="53" title="Slash" titleNormalized="slash" src="slide54.swf" size="980" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset53">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="54" title="Slash" titleNormalized="slash" src="slide55.swf" size="357328" advanceOnTime="0" framesCount="208" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset54">
+			<sounds/>
+			<videos>
+				<video id="video11" videoClipId="ispring.resources_23253469b40.spr0_3531671" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23253469b40.spr2_3531671" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video11" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="207" playTime="8.6250000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="55" title="Slash" titleNormalized="slash" src="slide56.swf" size="36032" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset55">
+			<sounds/>
+			<videos>
+				<video id="video12" videoClipId="ispring.resources_2325346d0e0.spr0_3532406" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_2325346d0e0.spr2_3532406" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="1"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash
+Clean, white belly
+Small black dot in middle of gills on both R and L sides
+Tag scar on both sides of dorsal fin
+Generally swims CCW
+Karate Chop</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="56" title="Slash" titleNormalized="slash" src="slide57.swf" size="34802" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset56">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash
+❶</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="57" title="Slash" titleNormalized="slash" src="slide58.swf" size="22319" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset57">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash
+❶
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="58" title="Slash" titleNormalized="slash" src="slide59.swf" size="31300" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset58">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Slash
+❷</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+			<branching>
+				<nextSlide>
+					<index>5</index>
+				</nextSlide>
+			</branching>
+		</slide>
+		<slide index="59" title="FIN" titleNormalized="fin" src="slide60.swf" size="27701" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset59">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>FIN
+Special Thanks to Dave Cutter who generously provided many of these photos and videos</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+	</slides>
+</presentation>
