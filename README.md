@@ -4,6 +4,10 @@ This project used a commercial version of iSpring Presenter 7, which is very sim
 
 The iSpring Solutions website is https://www.ispringsolutions.com/
 
+![Title screen of the Basic Life Support: CPR + First Aid Provider Assessment course, showing the Texas State Aquarium logo and a Start Assessment button](images/bls-assessment-title.png)
+
+*The title screen of the Basic Life Support: CPR + First Aid Provider Assessment  — one of the DAN courses in this repository, branded for the Texas State Aquarium.*
+
 # Output Formats
 
 This project features three output formats: Adobe Flash and HTML5 for the web and an executable for CD.
