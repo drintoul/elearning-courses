@@ -24,8 +24,6 @@ This project features three output formats: Adobe Flash and HTML5 for the web an
 
 This repository is provided as a work sample and does not contain the source files necessary to rebrand the eLearning courses. The PowerPoint and Quiz files are needed as well as the iSpring Solutions software to recompile. 
 
-Contact <a href="mailto:drintoul@gmail.com">drintoul@gmail.com</a> to request source files.
-
 # Available eLearning Courses
 
 ## DAN = Divers Alert Network
